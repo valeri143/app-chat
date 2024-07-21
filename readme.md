@@ -8,7 +8,9 @@ Features
 - Connect to existing chats
 - Delete chats if the user created them
 - Write messages in chats and see hardcoded messages from other users
-  Tech Stack
+
+Tech Stack
+
 - React Native
 - Redux
 - TypeScript
